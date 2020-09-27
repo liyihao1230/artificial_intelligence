@@ -1,2 +1,2 @@
 # artificial_intelligence
-knowledge about deep learning, reinforcement learning and machine learning
+About deep learning, reinforcement learning and machine learning
